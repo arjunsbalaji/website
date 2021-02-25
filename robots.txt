@@ -1,1 +1,1 @@
-Sitemap: https://arjunsbalaji.com/website/sitemap.xml
+Sitemap: http://arjunsbalaji.com/website/sitemap.xml
