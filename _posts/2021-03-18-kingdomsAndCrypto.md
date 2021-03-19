@@ -1,5 +1,5 @@
 ---
-title: "Kingdom's and Crypto"
+title: "Kingdoms and Crypto"
 description: "Some thoughts about recent events."
 layout: post
 toc: true
